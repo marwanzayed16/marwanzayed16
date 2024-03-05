@@ -7,8 +7,11 @@
 <p style="margin-bottom: 20px">
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwanzayed16&theme=github_dark"  width="100%" alt="marwanzayed16" />
 </p>
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marwanzayed16&theme=github_dark" width="33%" alt="marwanzayed16" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marwanzayed16&theme=github_dark"  width="33%" alt="marwanzayed16" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marwanzayed16&theme=github_dark"  width="33%" alt="marwanzayed16" />
+&nbsp;
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marwanzayed16&theme=github_dark" width="30%" alt="marwanzayed16" />
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marwanzayed16&theme=github_dark"  width="30%" alt="marwanzayed16" />
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marwanzayed16&theme=github_dark"  width="30%" alt="marwanzayed16" />
 </p>
